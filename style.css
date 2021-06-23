@@ -1,0 +1,163 @@
+.navbar {
+    position: fixed;
+    overflow: hidden;
+    z-index: 6;
+    width: 100%;
+    top: 0;
+}
+
+*,
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
+    font-family: 'Poppins';
+    font-weight: 300;
+    text-align: center;
+}
+
+body, html {
+    overflow-x: hidden;
+    color: #202020;
+}
+
+.panel-success>.panel-heading {
+    background-color: #FEF6DB;
+    border-color: #FEF6DB;
+    color: #202020;
+}
+
+.row1 {
+    margin-top: 5em;
+}
+.row2 {
+    margin-top: 10em;
+}
+
+.about-me p {
+    padding-left: 10em;
+    font-size: 16px;
+}
+
+#skills img {
+    height: 5em;
+}
+
+hr {
+   width: 10%;
+   background-color: #fdb82c;
+   color: #fdb82c;
+}
+
+.media img {
+    border-radius: 100%;
+    width: 70%;
+}
+
+.about-me img {
+    height: 30em;
+}
+
+.btn {
+    border-radius: 3px;
+    background-color: #FDB82C;
+    color:#fff;
+    border: none;
+}
+
+.jumbotron {
+    background: url(images/volt.png);
+    color: #ffffff;
+    background-attachment: fixed;
+    height: 54em;
+}
+
+.hire {
+    background-color: #101032;
+    opacity: #fff;
+    object-fit: none;
+    height: 35em;
+}
+
+.jumbotron img {
+    height: 30%;
+}
+
+/* @media only screen and (max-width: 375px) {
+    .jumbotron img {
+      position: relative;
+      top: 0;
+      width: 80%;
+    }
+  } */
+
+
+
+.panel-success img {
+    height: 15em;
+    width: 100%;
+}
+
+.li-social-links {
+    display: inline-block;
+    list-style: none;
+}
+
+.social {
+    align-items: center;
+    font-size: 2em;
+    color: white;
+    padding: 20px;
+}
+
+.jumbotron .media {
+    margin: 50px 0;
+}
+
+section.slider {
+    color: #ffffff;
+    background: #101032;
+    /* margin: 40px 0; */
+    padding: 40px 0;
+}
+
+footer {
+    background: #121214;
+    font-size: 0.9em;
+    padding: 1.5em;
+}
+
+img {
+    max-width: 100%;
+}
+
+.title {
+    margin-top: 2em;
+}
+.title span {
+    font-weight: 900;
+}
+
+.ul-skills {
+    text-align: center;
+}
+
+.li-skills {
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: #202020;
+    background: #fff;
+    list-style: none;
+    cursor: default;
+    font-size: 1.2em;
+}
+
+.footer-copyright {
+    text-align: center;
+}
+
+footer * {
+    color: #ffffff;
+}
+
+.copy {
+    text-align: center;
+}
