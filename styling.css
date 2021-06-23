@@ -50,53 +50,7 @@ footer {
 	bottom: 250px;
 	z-index: 5;
 }
-.crowd {
-	position: absolute;
-	bottom: 0;
-	z-index: 9999;
-}
-.crwd1 {
-	left: 10px;
-}
-.crwd2 {
-	left: 120px;
-}
-.crwd3 {
-	left: 240px;
-}
-.crwd4 {
-	left: 400px;
-}
-.crwd5 {
-	left: 550px;
-}
-.crwd6 {
-	left: 600px;
-}
-.crwd7 {
-	left: 700px;
-}
-.crwd8 {
-	left: 850px;
-}
-.crwd9 {
-	left: 1000px;
-}
-.crwd10 {
-	left: 1150px;
-}
-.crwd11 {
-	left: 1350px;
-}
-.crwd12 {
-	left: 1500px;
-}
-.crwd13 {
-	left: 1600px;
-}
-.crwd14 {
-	left: 1800px;
-}
+
 .psy {
 	background: url(https://image.ibb.co/kRoDmV/psy.png) no-repeat;
 	width: 225px;
