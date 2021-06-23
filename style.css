@@ -18,10 +18,27 @@ body, html {
     color: #202020;
 }
 
+#projects {
+    padding-top: 3em;
+    padding-bottom:  3em;
+}
+
+#cerificates {
+    padding-top: 3em;
+    padding-bottom:  3em;
+}
+
 .panel-success>.panel-heading {
     background-color: #FEF6DB;
     border-color: #FEF6DB;
     color: #202020;
+}
+.panel-footer {
+    background-color: #FEF6DB;
+}
+
+.panel {
+    border: none;
 }
 
 .row1 {
@@ -44,6 +61,7 @@ hr {
    width: 10%;
    background-color: #fdb82c;
    color: #fdb82c;
+   border: 3px solid #fdb82c;
 }
 
 .media img {
@@ -55,11 +73,28 @@ hr {
     height: 30em;
 }
 
+.media btn {
+    border-radius: 3px;
+    background-color: #FDB82C;
+    color:#fff;
+    border: none;
+}
+
+#homeBtn:hover {
+    background-color: #fff;
+    color: #FDB82C;
+    border: 3px solid #fdb82c;
+}
+
 .btn {
     border-radius: 3px;
     background-color: #FDB82C;
     color:#fff;
     border: none;
+}
+
+.btn:hover {
+    background-color: #101032;
 }
 
 .jumbotron {
