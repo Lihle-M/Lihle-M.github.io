@@ -20,7 +20,7 @@ body, html {
 
 #projects {
     padding-top: 3em;
-    padding-bottom:  3em;
+    padding-bottom: 3em;
 }
 
 #cerificates {
@@ -88,6 +88,7 @@ hr {
 .about-me img {
     height: 20em;
     margin-top: 5em;
+    border-radius: 0.1em;
 }
 
 .media btn {
@@ -158,6 +159,11 @@ hr {
 
 .theList {
     padding-top: 2em;
+}
+
+#click a {
+    color: #fff;
+    margin-right: 3.5em;
 }
 .glyphicon-triangle-right:before {
     color:#fdb82c;
