@@ -50,12 +50,18 @@ body, html {
 
 .about-me h4 {
     padding-left: 10em;
-    padding-top: 6em;
+    margin-top: 2em;
+    text-align: left;
+    /* padding-right: 5em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    margin-top: 6em;
     font-size: 16px;
+    background: #FEF6DB; */
 }
 
 .about-me {
-    padding-bottom: 3em;
+    padding-bottom: 3em;'
 }
 
 #skills img {
@@ -74,8 +80,14 @@ hr {
     width: 70%;
 }
 
+.team  {
+    margin-top: 5em;
+    padding-bottom: 5em;
+}
+
 .about-me img {
-    height: 30em;
+    height: 20em;
+    margin-top: 5em;
 }
 
 .media btn {
