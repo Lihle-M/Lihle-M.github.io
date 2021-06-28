@@ -12,6 +12,13 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
     font-weight: 300;
     text-align: center;
 }
+.banner-ad img {
+    margin-bottom: 2em;
+}
+
+.banners {
+    padding-top: 5em;
+}
 
 body, html {
     overflow-x: hidden;
@@ -113,6 +120,7 @@ hr {
 
 .btn:hover {
     background-color: #101032;
+    color: #fff;
 }
 
 .jumbotron {
