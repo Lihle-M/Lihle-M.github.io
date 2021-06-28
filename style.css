@@ -12,12 +12,20 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
     font-weight: 300;
     text-align: center;
 }
+
+#projects .container {
+    padding-bottom: 2em;
+}
 .banner-ad img {
     margin-bottom: 2em;
 }
 
 .banners {
     padding-top: 5em;
+}
+
+#cerificates img {
+    padding-top: 3em;
 }
 
 body, html {
